@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemScreenA"
+        android:title = "ScreenA"/>
+    <item
+        android:id="@+id/itemScreenB"
+        android:title = "ScreenB"/>
+    <item
+        android:id="@+id/itemStopWatch"
+        android:title="Timer"/>
+</menu>
